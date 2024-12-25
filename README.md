@@ -1,4 +1,4 @@
-# DBT Playground for teaching
+# Data Warehouse training with dbt
 
 
 ## Prerequisites

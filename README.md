@@ -9,7 +9,7 @@
 ### Clone the Repository
 ```
 # Clone the repo
-git clone https://github.com/salbifaza/dbt_playground.git
+git clone https://github.com/zareee12/Data-Warehouse-training.git
 
 cd dbt_playground
 
